@@ -4,35 +4,6 @@
   
   
   <entry>
-    <title>谷歌调教篇</title>
-    <link href="/posts/23862.html"/>
-    <url>/posts/23862.html</url>
-    
-    <content type="html"><![CDATA[<h2 id="🍕谷歌相应插件安装和下载"><a href="#🍕谷歌相应插件安装和下载" class="headerlink" title="🍕谷歌相应插件安装和下载"></a>🍕谷歌相应插件安装和下载</h2><h4 id="1-离线安装"><a href="#1-离线安装" class="headerlink" title="1. 离线安装:"></a>1. 离线安装:</h4><ul><li><p>离线安装地址: </p><blockquote><p><a href="https://www.crx4chrome.com/" target="_blank" rel="noopener">crx4chrome</a></p><p><a href="https://chrome.google.com/webstore/detail/infinity-new-tab-producti/dbfmnekepjoapopniengjbcpnbljalfg?hl=zh-CN" target="_blank" rel="noopener">infinty标签页</a></p><p><a href="https://www.extfans.com/" target="_blank" rel="noopener">extfans</a></p></blockquote></li><li><p>离线安装方法:</p><blockquote><p><a href="https://crxhelp.bj.bcebos.com/crxhelp.zip" target="_blank" rel="noopener">chrome插件伴侣</a></p><p>开发者模式(强烈推荐) [^1]  </p></blockquote></li></ul><h4 id="2-在线安装-需要科学上网"><a href="#2-在线安装-需要科学上网" class="headerlink" title="2. 在线安装(需要科学上网):"></a>2. 在线安装(需要<strong>科学上网</strong>):</h4><blockquote><p><a href="https://chrome.google.com/webstore/category/extensions?hl=zh-CN" target="_blank" rel="noopener">chrome 网上应用店</a> </p></blockquote><h4 id="3-Chrome浏览器插件推荐"><a href="#3-Chrome浏览器插件推荐" class="headerlink" title="3. Chrome浏览器插件推荐"></a>3. Chrome浏览器插件推荐</h4><ul><li><p><a href="https://chrome.google.com/webstore/detail/chrono-download-manager/mciiogijehkdemklbdcbfkefimifhecn" target="_blank" rel="noopener">chrome下载器</a></p></li><li><p>油猴脚本管理器 <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo" target="_blank" rel="noopener">Tampermonkey</a></p></li><li><p>广告屏蔽插件<a href="https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=zh-CN" target="_blank" rel="noopener">uBlock Origin</a> 或者 <a href="https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom" target="_blank" rel="noopener">ADBlock Plus</a></p></li><li><p>网页截图工具 <a href="https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg?hl=zh-CN" target="_blank" rel="noopener">FireShot</a></p></li><li><p>解除拷贝和右键屏蔽 <a href="https://chrome.google.com/webstore/detail/simple-allow-copy/aefehdhdciieocakfobpaaolhipkcpgc?hl=zh-CN" target="_blank" rel="noopener">Simple Allow Copy</a></p></li><li><p><a href="http://www.internetdownloadmanager.com/" target="_blank" rel="noopener">InternetDownloadManager</a></p></li><li><p>浏览器剪藏 <a href="https://chrome.google.com/webstore/detail/evernote-web-clipper/pioclpoplcdbaefihamjohnefbikjilc?hl=zh-CN" target="_blank" rel="noopener">Evernote Web Clipper</a>或<a href="https://chrome.google.com/webstore/detail/onenote-web-clipper/gojbdfnpnhogfdgjbigejoaolejmgdhk" target="_blank" rel="noopener">OneNote</a></p></li><li><p><a href="https://chrome.google.com/webstore/detail/沙拉查词-聚合词典划词翻译/cdonnmffkdaoajfknoeeecmchibpmkmg?hl=en" target="_blank" rel="noopener">沙拉查词</a></p></li><li><p><a href="https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall" target="_blank" rel="noopener">OneTab</a></p></li><li><p>美化网页<a href="https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne" target="_blank" rel="noopener">Stylus </a></p></li><li><p>类似的网站 - <a href="https://chrome.google.com/webstore/detail/similar-sites-discover-re/necpbmbhhdiplmfhmjicabdeighkndkn" target="_blank" rel="noopener">发现相关网站</a></p></li><li><p>全能启动器  <a href="https://chrome.google.com/webstore/detail/steward-plus/dnkhdiodfglfckibnfcjbgddcgjgkacd" target="_blank" rel="noopener">Steward Plus</a></p></li><li><p>图片助手批量图片下载器<a href="https://chrome.google.com/webstore/detail/imageassistant-batch-imag/dbjbempljhcmhlfpfacalomonjpalpko" target="_blank" rel="noopener">ImageAssistant</a> </p></li></ul><h2 id="📌深度玩转chrome浏览器"><a href="#📌深度玩转chrome浏览器" class="headerlink" title="📌深度玩转chrome浏览器:"></a>📌深度玩转chrome浏览器:</h2><h4 id="网页常用快捷键"><a href="#网页常用快捷键" class="headerlink" title="网页常用快捷键:"></a>网页常用快捷键:</h4><table><thead><tr><th>Ctrl+L</th><th>选择网址栏Link</th></tr></thead><tbody><tr><td>Ctrl+H</td><td>打开历史记录 History</td></tr><tr><td>Ctrl+F</td><td>页内搜索Find</td></tr><tr><td>Ctrl+Tab</td><td>网页切换 Table</td></tr><tr><td>Ctrl+T</td><td>新建标签页</td></tr><tr><td>Ctrl+shift+T</td><td>恢复刚才关闭的页面</td></tr></tbody></table><h4 id="关键词匹配搜索："><a href="#关键词匹配搜索：" class="headerlink" title="关键词匹配搜索："></a>关键词匹配搜索：</h4><p>举例:   百度(关键词bd):<a href="https://www.baidu.com/s?wd=%s" target="_blank" rel="noopener">https://www.baidu.com/s?wd=%s</a></p><p><img src="https://tva1.sinaimg.cn/large/7a6a15d5gy1g1qecggdlej20k00jwq4c.jpg" srcset="/img/loading.gif" alt="在浏览器中设置关键字来快速切换到Google英文主页↑"></p><p> <img src="https://ae01.alicdn.com/kf/H52978f56b44c480eba0b8d1ec4f79a6de.png" srcset="/img/loading.gif" alt=""></p><p><strong>设置方法:</strong>  设置👉管理搜索引擎👉添加</p><h4 id="🏷Chrome浏览器的书签管理和数据备份"><a href="#🏷Chrome浏览器的书签管理和数据备份" class="headerlink" title="🏷Chrome浏览器的书签管理和数据备份"></a>🏷Chrome浏览器的书签管理和数据备份</h4><ol><li><p><strong>删除:</strong></p><blockquote><p>删除无用.冗杂.很容易找到的书签</p></blockquote></li></ol><ol start="2"><li><p><strong>分类:</strong></p><blockquote><p>领域，兴趣爱好，关注重点，日常使用</p><p>使用思维导图勾勒出<strong>书签文件夹体系</strong></p><p><strong>文件夹目录层级不超过三层</strong></p></blockquote></li><li><p><strong>精选:</strong></p><blockquote><p>工具属性——&gt;收藏夹</p><p>内容属性——&gt;云笔记</p></blockquote></li><li><p><strong>收藏:</strong></p><blockquote><p>坚持每周清理{其它书签}文件夹</p><blockquote><ul><li>浏览器自带收藏夹</li><li>收趣</li><li>Pocket</li></ul></blockquote></blockquote></li></ol><p>[^1]:下载以.crx为后缀名的插件👉修改文件后名为.zip或者.7z等压缩格式👉解压压缩文件，👉打开扩展程序界面，👉开启开发者模式安装拖拽安装(chrome67版本后失效 )</p>]]></content>
-    
-    
-    <categories>
-      
-      <category>高效人生</category>
-      
-      <category>器</category>
-      
-    </categories>
-    
-    
-    <tags>
-      
-      <tag>笔记</tag>
-      
-      <tag>效率</tag>
-      
-    </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
     <title>Hexo相关命令</title>
     <link href="/posts/62944.html"/>
     <url>/posts/62944.html</url>
@@ -54,6 +25,35 @@
       <tag>笔记</tag>
       
       <tag>Hexo</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>谷歌调教篇</title>
+    <link href="/posts/23862.html"/>
+    <url>/posts/23862.html</url>
+    
+    <content type="html"><![CDATA[<h2 id="🍕谷歌相应插件安装和下载"><a href="#🍕谷歌相应插件安装和下载" class="headerlink" title="🍕谷歌相应插件安装和下载"></a>🍕谷歌相应插件安装和下载</h2><h4 id="1-离线安装"><a href="#1-离线安装" class="headerlink" title="1. 离线安装:"></a>1. 离线安装:</h4><ul><li><p>离线安装地址: </p><blockquote><p><a href="https://www.crx4chrome.com/" target="_blank" rel="noopener">crx4chrome</a></p><p><a href="https://chrome.google.com/webstore/detail/infinity-new-tab-producti/dbfmnekepjoapopniengjbcpnbljalfg?hl=zh-CN" target="_blank" rel="noopener">infinty标签页</a></p><p><a href="https://www.extfans.com/" target="_blank" rel="noopener">extfans</a></p></blockquote></li><li><p>离线安装方法:</p><blockquote><p><a href="https://crxhelp.bj.bcebos.com/crxhelp.zip" target="_blank" rel="noopener">chrome插件伴侣</a></p><p>开发者模式(强烈推荐) [^1]  </p></blockquote></li></ul><h4 id="2-在线安装-需要科学上网"><a href="#2-在线安装-需要科学上网" class="headerlink" title="2. 在线安装(需要科学上网):"></a>2. 在线安装(需要<strong>科学上网</strong>):</h4><blockquote><p><a href="https://chrome.google.com/webstore/category/extensions?hl=zh-CN" target="_blank" rel="noopener">chrome 网上应用店</a> </p></blockquote><h4 id="3-Chrome浏览器插件推荐"><a href="#3-Chrome浏览器插件推荐" class="headerlink" title="3. Chrome浏览器插件推荐"></a>3. Chrome浏览器插件推荐</h4><ul><li><p><a href="https://chrome.google.com/webstore/detail/chrono-download-manager/mciiogijehkdemklbdcbfkefimifhecn" target="_blank" rel="noopener">chrome下载器</a></p></li><li><p>油猴脚本管理器 <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo" target="_blank" rel="noopener">Tampermonkey</a></p></li><li><p>广告屏蔽插件<a href="https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=zh-CN" target="_blank" rel="noopener">uBlock Origin</a> 或者 <a href="https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom" target="_blank" rel="noopener">ADBlock Plus</a></p></li><li><p>网页截图工具 <a href="https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg?hl=zh-CN" target="_blank" rel="noopener">FireShot</a></p></li><li><p>解除拷贝和右键屏蔽 <a href="https://chrome.google.com/webstore/detail/simple-allow-copy/aefehdhdciieocakfobpaaolhipkcpgc?hl=zh-CN" target="_blank" rel="noopener">Simple Allow Copy</a></p></li><li><p><a href="http://www.internetdownloadmanager.com/" target="_blank" rel="noopener">InternetDownloadManager</a></p></li><li><p>浏览器剪藏 <a href="https://chrome.google.com/webstore/detail/evernote-web-clipper/pioclpoplcdbaefihamjohnefbikjilc?hl=zh-CN" target="_blank" rel="noopener">Evernote Web Clipper</a>或<a href="https://chrome.google.com/webstore/detail/onenote-web-clipper/gojbdfnpnhogfdgjbigejoaolejmgdhk" target="_blank" rel="noopener">OneNote</a></p></li><li><p><a href="https://chrome.google.com/webstore/detail/沙拉查词-聚合词典划词翻译/cdonnmffkdaoajfknoeeecmchibpmkmg?hl=en" target="_blank" rel="noopener">沙拉查词</a></p></li><li><p><a href="https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall" target="_blank" rel="noopener">OneTab</a></p></li><li><p>美化网页<a href="https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne" target="_blank" rel="noopener">Stylus </a></p></li><li><p>类似的网站 - <a href="https://chrome.google.com/webstore/detail/similar-sites-discover-re/necpbmbhhdiplmfhmjicabdeighkndkn" target="_blank" rel="noopener">发现相关网站</a></p></li><li><p>全能启动器  <a href="https://chrome.google.com/webstore/detail/steward-plus/dnkhdiodfglfckibnfcjbgddcgjgkacd" target="_blank" rel="noopener">Steward Plus</a></p></li><li><p>图片助手批量图片下载器<a href="https://chrome.google.com/webstore/detail/imageassistant-batch-imag/dbjbempljhcmhlfpfacalomonjpalpko" target="_blank" rel="noopener">ImageAssistant</a> </p></li></ul><h2 id="📌深度玩转chrome浏览器"><a href="#📌深度玩转chrome浏览器" class="headerlink" title="📌深度玩转chrome浏览器:"></a>📌深度玩转chrome浏览器:</h2><h4 id="网页常用快捷键"><a href="#网页常用快捷键" class="headerlink" title="网页常用快捷键:"></a>网页常用快捷键:</h4><table><thead><tr><th>Ctrl+L</th><th>选择网址栏Link</th></tr></thead><tbody><tr><td>Ctrl+H</td><td>打开历史记录 History</td></tr><tr><td>Ctrl+F</td><td>页内搜索Find</td></tr><tr><td>Ctrl+Tab</td><td>网页切换 Table</td></tr><tr><td>Ctrl+T</td><td>新建标签页</td></tr><tr><td>Ctrl+shift+T</td><td>恢复刚才关闭的页面</td></tr></tbody></table><h4 id="关键词匹配搜索："><a href="#关键词匹配搜索：" class="headerlink" title="关键词匹配搜索："></a>关键词匹配搜索：</h4><p>举例:   百度(关键词bd):<a href="https://www.baidu.com/s?wd=%s" target="_blank" rel="noopener">https://www.baidu.com/s?wd=%s</a></p><p><img src="https://tva1.sinaimg.cn/large/7a6a15d5gy1g1qecggdlej20k00jwq4c.jpg" srcset="/img/loading.gif" alt="在浏览器中设置关键字来快速切换到Google英文主页↑"></p><p> <img src="https://ae01.alicdn.com/kf/H52978f56b44c480eba0b8d1ec4f79a6de.png" srcset="/img/loading.gif" alt=""></p><p><strong>设置方法:</strong>  设置👉管理搜索引擎👉添加</p><h4 id="🏷Chrome浏览器的书签管理和数据备份"><a href="#🏷Chrome浏览器的书签管理和数据备份" class="headerlink" title="🏷Chrome浏览器的书签管理和数据备份"></a>🏷Chrome浏览器的书签管理和数据备份</h4><ol><li><p><strong>删除:</strong></p><blockquote><p>删除无用.冗杂.很容易找到的书签</p></blockquote></li></ol><ol start="2"><li><p><strong>分类:</strong></p><blockquote><p>领域，兴趣爱好，关注重点，日常使用</p><p>使用思维导图勾勒出<strong>书签文件夹体系</strong></p><p><strong>文件夹目录层级不超过三层</strong></p></blockquote></li><li><p><strong>精选:</strong></p><blockquote><p>工具属性——&gt;收藏夹</p><p>内容属性——&gt;云笔记</p></blockquote></li><li><p><strong>收藏:</strong></p><blockquote><p>坚持每周清理{其它书签}文件夹</p><blockquote><ul><li>浏览器自带收藏夹</li><li>收趣</li><li>Pocket</li></ul></blockquote></blockquote></li></ol><p>[^1]:下载以.crx为后缀名的插件👉修改文件后名为.zip或者.7z等压缩格式👉解压压缩文件，👉打开扩展程序界面，👉开启开发者模式安装拖拽安装(chrome67版本后失效 )</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>高效人生</category>
+      
+      <category>器</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>笔记</tag>
+      
+      <tag>效率</tag>
       
     </tags>
     
