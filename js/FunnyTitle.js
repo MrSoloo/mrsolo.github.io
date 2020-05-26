@@ -3,13 +3,13 @@ var OriginTitle = document.title;
 var titleTime;
 document.addEventListener('visibilitychange', function () {
     if (document.hidden) {
-        $('[rel="icon"]').attr('href', "/funny.ico");
-        document.title = '╭(°A°`)╮ 页面崩溃啦 ~';
+        $('[rel="icon"]').attr('href', "/img/funny.png");
+        document.title = '😒哼！赶紧走,不要再回来了！';
         clearTimeout(titleTime);
     }
     else {
-        $('[rel="icon"]').attr('href', "/favicon.ico");
-        document.title = '(ฅ>ω<*ฅ) 噫又好啦 ~' + OriginTitle;
+        $('[rel="icon"]').attr('href', "/img/favicon.png");
+        document.title = '😳不是因为你回来才开心哦！' + OriginTitle;
         titleTime = setTimeout(function () {
             document.title = OriginTitle;
         }, 2000);
