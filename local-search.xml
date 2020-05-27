@@ -4,35 +4,6 @@
   
   
   <entry>
-    <title>Hexo相关命令</title>
-    <link href="/posts/62944.html"/>
-    <url>/posts/62944.html</url>
-    
-    <content type="html"><![CDATA[<h1 id="Hexoの相关命令"><a href="#Hexoの相关命令" class="headerlink" title="Hexoの相关命令"></a>Hexoの相关命令</h1><hr><blockquote><p>本文参考<a href="https://easyhexo.com/1-Hexo-install-and-config/1-4-deploy-hexo.html#部署到-github" target="_blank" rel="noopener">部署 Hexo</a>，主要是说一下指令，方便查看</p></blockquote><h3 id="🍕编译指令"><a href="#🍕编译指令" class="headerlink" title="🍕编译指令"></a>🍕编译指令</h3><ul><li>清除缓存 ,网页正常情况下可以忽略此条命令,执行该指令后,会删掉站点根目录下的public文件夹</li></ul><pre><code class="hljs plain">hexo clean</code></pre><ul><li>生成静态网页 (执行 $ <code>hexo g</code>后会在站点根目录下生成public文件夹, hexo会将”/blog/source/“ 下面的.md后缀的文件编译为.html后缀的文件,存放在”/blog/public/ “ 路径下)</li></ul><pre><code class="hljs plain">hexo g</code></pre><h3 id="🍕本地部署"><a href="#🍕本地部署" class="headerlink" title="🍕本地部署"></a>🍕本地部署</h3><ul><li>启动本地服务器，用于预览主题。Hexo 会监视文件变动并自动更新，除修改站点配置文件外,无须重启服务器,直接刷新网页即可生效。 | 部署好可以在<a href="http://localhost:4000调试查看。">http://localhost:4000调试查看。</a></li></ul><pre><code class="hljs plain">hexo s</code></pre><h3 id="🍕上传部署"><a href="#🍕上传部署" class="headerlink" title="🍕上传部署"></a>🍕上传部署</h3><ul><li>自动生成网站静态文件，并将本地数据部署到设定的仓库(如github)。上面的指令很多采用了简写，会发生冲突，尤其<strong>hexo deploy</strong>会和豆瓣部署冲突，所以建议这里不要简写。</li></ul><pre><code class="hljs plain">hexo deploy # 简写为 hexo d</code></pre><h3 id="🍕安装插件"><a href="#🍕安装插件" class="headerlink" title="🍕安装插件"></a>🍕安装插件</h3><pre><code class="hljs plain">npm install 插件名 --save</code></pre><h3 id="🍕卸载插件"><a href="#🍕卸载插件" class="headerlink" title="🍕卸载插件"></a>🍕卸载插件</h3><pre><code class="hljs plain">npm uninstall 插件名</code></pre><h3 id="🍕其他命令"><a href="#🍕其他命令" class="headerlink" title="🍕其他命令"></a>🍕其他命令</h3><ul><li>查看node.js版本号</li></ul><pre><code class="hljs plain">node-v</code></pre><ul><li>查看npm版本号</li></ul><pre><code class="hljs plain">npm -v</code></pre><ul><li>查看git版本号</li></ul><pre><code class="hljs plain">git --version</code></pre><ul><li>查看hexo版本号</li></ul><pre><code class="hljs plain">hexo -v</code></pre><ul><li>新建一篇博文</li></ul><pre><code class="hljs plain">hexo n &quot;我的第一篇文章&quot;&#96; 等价于 &#96;hexo new &quot;我的第一篇文章&quot;&#96; 还等价于 &#96;hexo new post &quot;我的第一篇文章&quot;</code></pre>]]></content>
-    
-    
-    <categories>
-      
-      <category>高效人生</category>
-      
-      <category>器</category>
-      
-    </categories>
-    
-    
-    <tags>
-      
-      <tag>笔记</tag>
-      
-      <tag>Hexo</tag>
-      
-    </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
     <title>谷歌调教篇</title>
     <link href="/posts/23862.html"/>
     <url>/posts/23862.html</url>
@@ -83,6 +54,35 @@
       <tag>笔记</tag>
       
       <tag>效率</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Hexo相关命令</title>
+    <link href="/posts/56343.html"/>
+    <url>/posts/56343.html</url>
+    
+    <content type="html"><![CDATA[<h1 id="Hexoの相关命令"><a href="#Hexoの相关命令" class="headerlink" title="Hexoの相关命令"></a>Hexoの相关命令</h1><hr><blockquote><p>本文参考<a href="https://easyhexo.com/1-Hexo-install-and-config/1-4-deploy-hexo.html#部署到-github" target="_blank" rel="noopener">部署 Hexo</a>，主要是说一下指令，方便查看</p></blockquote><h3 id="🍕编译指令"><a href="#🍕编译指令" class="headerlink" title="🍕编译指令"></a>🍕编译指令</h3><ul><li>清除缓存 ,网页正常情况下可以忽略此条命令,执行该指令后,会删掉站点根目录下的public文件夹</li></ul><pre><code class="hljs plain">hexo clean</code></pre><ul><li>生成静态网页 (执行 $ <code>hexo g</code>后会在站点根目录下生成public文件夹, hexo会将”/blog/source/“ 下面的.md后缀的文件编译为.html后缀的文件,存放在”/blog/public/ “ 路径下)</li></ul><pre><code class="hljs plain">hexo g</code></pre><h3 id="🍕本地部署"><a href="#🍕本地部署" class="headerlink" title="🍕本地部署"></a>🍕本地部署</h3><ul><li>启动本地服务器，用于预览主题。Hexo 会监视文件变动并自动更新，除修改站点配置文件外,无须重启服务器,直接刷新网页即可生效。 | 部署好可以在<a href="http://localhost:4000调试查看。">http://localhost:4000调试查看。</a></li></ul><pre><code class="hljs plain">hexo s</code></pre><h3 id="🍕上传部署"><a href="#🍕上传部署" class="headerlink" title="🍕上传部署"></a>🍕上传部署</h3><ul><li>自动生成网站静态文件，并将本地数据部署到设定的仓库(如github)。上面的指令很多采用了简写，会发生冲突，尤其<strong>hexo deploy</strong>会和豆瓣部署冲突，所以建议这里不要简写。</li></ul><pre><code class="hljs plain">hexo deploy # 简写为 hexo d</code></pre><h3 id="🍕安装插件"><a href="#🍕安装插件" class="headerlink" title="🍕安装插件"></a>🍕安装插件</h3><pre><code class="hljs plain">npm install 插件名 --save</code></pre><h3 id="🍕卸载插件"><a href="#🍕卸载插件" class="headerlink" title="🍕卸载插件"></a>🍕卸载插件</h3><pre><code class="hljs plain">npm uninstall 插件名</code></pre><h3 id="🍕其他命令"><a href="#🍕其他命令" class="headerlink" title="🍕其他命令"></a>🍕其他命令</h3><ul><li>查看node.js版本号</li></ul><pre><code class="hljs plain">node-v</code></pre><ul><li>查看npm版本号</li></ul><pre><code class="hljs plain">npm -v</code></pre><ul><li>查看git版本号</li></ul><pre><code class="hljs plain">git --version</code></pre><ul><li>查看hexo版本号</li></ul><pre><code class="hljs plain">hexo -v</code></pre><ul><li>新建一篇博文</li></ul><pre><code class="hljs plain">hexo n &quot;我的第一篇文章&quot;&#96; 等价于 &#96;hexo new &quot;我的第一篇文章&quot;&#96; 还等价于 &#96;hexo new post &quot;我的第一篇文章&quot;</code></pre>]]></content>
+    
+    
+    <categories>
+      
+      <category>高效人生</category>
+      
+      <category>器</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>笔记</tag>
+      
+      <tag>Hexo</tag>
       
     </tags>
     
